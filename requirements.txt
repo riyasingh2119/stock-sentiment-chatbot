@@ -1,0 +1,6 @@
+Flask
+requests
+yfinance
+vaderSentiment
+python-dotenv
+flask-cors
